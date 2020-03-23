@@ -1,6 +1,5 @@
 # markdown测试
 ## 标题
-this is referenced
 ## 分隔符
 ---
 ## 引用
@@ -21,8 +20,9 @@ this is referenced
 	1. first
 
 ## 链接
-[markdown link](www.baidu.com)
-<www.baidu.com>
+[markdown link](www.baidu.com)内部链接
+
+<www.baidu.com>外部链接
 
 ## 图片
 同上加！
