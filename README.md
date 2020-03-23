@@ -20,9 +20,9 @@
 	1. first
 
 ## 链接
-[markdown link](www.baidu.com)内部链接
+[markdown link](http://www.baidu.com)
 
-<www.baidu.com>外部链接
+<http://www.baidu.com>
 
 ## 图片
 同上加！
